@@ -66,9 +66,7 @@ To address this, an interactive dashboard is created using Power BI to:
 - Mobile-responsive dashboard versions
 
 ## 📽️ Demo
-
-Include screenshots or a demo video link here  
-Example: dashboad.png
+Example: Dashboard.png
 
 ## 🙏 Acknowledgments
 
